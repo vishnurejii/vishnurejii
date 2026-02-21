@@ -1,4 +1,4 @@
-<div style="background-color:#000000; color:#ffffff; padding:30px; border-radius:12px;">
+
 
 <h1 align="left">Hey, I’m Vishnu</h1>
 
@@ -52,4 +52,4 @@ Working on the MERN stack and learning through consistent, hands-on building. Fo
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vishnurejii/vishnurejii/output/pacman-contribution-graph.svg">
 </picture>
 
-</div>
+
