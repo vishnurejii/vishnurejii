@@ -2,9 +2,7 @@
 
 <h1 align="left">Hey, I’m Vishnu</h1>
 
-<div align="center">
-  <img height="200" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" />
-</div>
+
 
 <p align="left">
 Focused on mastering core computer science principles and building reliable backend and frontend systems
@@ -46,10 +44,10 @@ Working on the MERN stack and learning through consistent, hands-on building. Fo
 
 <br/>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishnurejii/vishnurejii/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishnurejii/vishnurejii/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vishnurejii/vishnurejii/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 
