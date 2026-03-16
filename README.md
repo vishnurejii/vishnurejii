@@ -44,7 +44,7 @@ Working on the MERN stack and learning through consistent, hands-on building. Fo
 
 <br/>
 
-<--
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishnurejii/vishnurejii/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishnurejii/vishnurejii/output/pacman-contribution-graph.svg">
